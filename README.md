@@ -24,4 +24,4 @@ Easy-to-Read Numbers: Automatically formats big sales numbers into "K" (thousand
 Static Picture: It creates a picture of these charts. You can't click on them or interact with them like a real online dashboard, but it's great for sharing in a presentation.
 
 **OUTPUT**
-![Image](https://github.com/user-attachments/assets/7106b1c5-8734-415e-9c26-e2ffe4c7bdd5)
+![Image](https://github.com/user-attachments/assets/cf05dcbb-7107-4dfc-89b4-b90647d6f303)
